@@ -18,7 +18,7 @@ namespace GPUPresentationBenchmark
             string argumentString = " -i " + inputname + " -o " + outputname + " -p " + device + " -t 0 -s 2 -n 1 -m noise_scale";
             Console.WriteLine("-------------------------------------------");
             Console.WriteLine("CPU vs GPU Machine Learning Benchmark");
-            Console.WriteLine("Prepared by Rashik Chauhan");
+            Console.WriteLine("Prepared by RC");
             Console.WriteLine("Press any key to start");
             Console.WriteLine("-------------------------------------------");
             Console.ReadLine();
